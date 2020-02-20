@@ -6,7 +6,7 @@
     "sort-packages": true
   },
   "require": {
-    "pimcore/output-data-config-toolkit-bundle": "dev-select"
+    "pimcore/output-data-config-toolkit-bundle": "dev-select",
     "pimcore/pimcore": ">=5.4 <6.6",
   },
   "autoload": {
