@@ -6,8 +6,8 @@
     "sort-packages": true
   },
   "require": {
-    "pimcore/pimcore": ">=5.4 <6.5",
     "pimcore/output-data-config-toolkit-bundle": "dev-select"
+    "pimcore/pimcore": ">=5.4 <6.6",
   },
   "autoload": {
     "psr-4": {
